@@ -1,2 +1,2 @@
-# Pharmaceutical_Good_Document_Practice
+# Pharmaceutical_Industry_University_Bridge
 Good Document Practice (GDP) in Pharmaceutical Industry
